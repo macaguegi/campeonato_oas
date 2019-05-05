@@ -1,4 +1,4 @@
-# Liga Sudamericana 
+# Liga Sudamericana :soccer: :soccer:
 
 Este repositorio contiene un sistema para la organización de la liga sudamericana de clubes generado con Golang y Angular 7 (Ngx-Admin) como prueba de microservicios para la Oficina Asesora de Sistemas. 
 
@@ -7,6 +7,7 @@ Este repositorio contiene un sistema para la organización de la liga sudamerica
 El presente repositorio tiene 1 directorio denominado Persistencia con los modelos de datos establecidos.
 
 Además tiene 4 CRUD APIs denominadas
+
     - paises_crud
     - equipos_crud
     - partidos_crud
@@ -15,7 +16,7 @@ Además tiene 4 CRUD APIs denominadas
 Las APIs mencionadas previamente se conectan a través de un MID API denominada sudamericana_mid . 
 
 El MID API es quien interactua directamente con el cliente llamado sudamericana_cliente que está montado en Angular 7 con la plantilla ngx-admin .
-## Ejecución
+## Ejecución :arrow_forward:
 Clonar este repositorio
 ```sh
 $ git clone https://github.com/macaguegi/campeonato_oas.git
@@ -29,7 +30,7 @@ Para ejecutar el cliente, entrar en el directorio de sudamericana_cliente desde 
 ```sh
 $ npm start
 ```
-## Licencia
+## Licencia :heavy_check_mark:
 
 This file is part of campeonato_oas.
 
