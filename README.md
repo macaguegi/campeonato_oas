@@ -6,6 +6,7 @@ Este repositorio contiene un sistema para la organización de la liga sudamerica
 
 El presente repositorio tiene 1 directorio denominado Persistencia con los modelos de datos establecidos.
 
+![Modelo de datos](https://github.com/macaguegi/campeonato_oas/blob/master/persistencia/sudamericana.png)
 Además tiene 4 CRUD APIs denominadas
 
     - paises_crud
