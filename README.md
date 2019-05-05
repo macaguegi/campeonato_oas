@@ -27,10 +27,7 @@ Entrar a cada API que tiene el repositorio y dentro de cada uno de estos directo
 ```sh
 $ bee run
 ```
-Para ejecutar el cliente, entrar en el directorio de sudamericana_cliente desde otra termina y ejecutar el comando 
-```sh
-$ npm start
-```
+
 ## Licencia :heavy_check_mark:
 
 This file is part of campeonato_oas.
